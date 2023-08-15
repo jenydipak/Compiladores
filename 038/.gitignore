@@ -1,0 +1,48 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.dropbox.attr
+*.tab.c
+*.tab.h
+
+# Installer files
+cdk/
+rts/
+
+# Test Files
+tests/
+co23
+
+# Compilation and Execution Files
+mml
+mml_scanner.cpp
+mml_parser.output
+.auto/
+auto-tests/
+test.sh
